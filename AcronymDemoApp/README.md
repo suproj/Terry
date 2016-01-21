@@ -4,7 +4,7 @@ An app which allows to look up meanings of acronyms. It is also able to integrat
 This app a local JSON object as a acronyms/definitions storage to retrieve definitions.
 
 Here's the link to the WebApp:
-http://bichdiep1802.github.io/AcronymDemoApp/
+http://suproj.github.io/Terry/AcronymDemoApp/
 
 Instructions of using voice commands 
 =============
@@ -14,6 +14,8 @@ There are some different ways to ask for defition of MVP using voice command:
   - "Terry, definition of MVP"
   - "Terry, definition MVP"
   - "Terry, what is MVP"
+  
+At the moment, the responses are still text-type, but will be updated to support voice-type soon. 
 
 *** Follow the tutorial from the following to create a hosted web app ***
 https://microsoftedge.github.io/WebAppsDocs/en-US/win10/CreateHWA.htm
