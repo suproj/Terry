@@ -2,5 +2,6 @@ language: node_js
 
 before_script:
 - npm install -g gulp
+- npm install -g mocha
 
 script: gulp test
