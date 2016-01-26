@@ -1,6 +1,7 @@
 var gulp = require('gulp');
-var jshint = require('gulp-jshint');
+var jshint = require('gulp-mocha');
 
 gulp.task('test', function() {
-	//return
+	return gulp.src('mochaTests.js', {read: false})
+		.pipe(mocha());
 });
