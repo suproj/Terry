@@ -1,4 +1,4 @@
-A Demo of Acronym Search
+A Demo of Acronym Search (this is a test of Travis!)
 ============
 An app which allows to look up meanings of acronyms. It is also able to integrate with Cortana (Microsoft Voice Recognition Technology) by creating a Hosted Web App
 This app a local JSON object as a acronyms/definitions storage to retrieve definitions.
