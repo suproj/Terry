@@ -1,17 +1,15 @@
 header {
-    background-color:#26a3f6;
-    color:white;
-    text-align:center;
-    padding:5px; 
+    background-color: #E9F1F2; 
+    color: #343434;
+    text-align: center;
+    padding: 5px; 
 }  
 
 body {
     FONT-FAMILY: Georgia, "Times New Roman", Times, serif;
-    FONT-SIZE: 1em;
     COLOR: #4A4A4A;
-    BACKGROUND-COLOR: rgba(0, 0, 0, .1);
-    line-height: 1.5;
-    max-width: 43.75em; 
+    BACKGROUND-COLOR: #aaa;
+    width: 60%;
     margin: 0 auto;
     padding: 0;
 }
@@ -20,25 +18,42 @@ body {
 .inputSection {
     FONT-WEIGHT: bold;
     TEXT-ALIGN: center;
-    BACKGROUND-COLOR: #b2cbed
+    BACKGROUND-COLOR: #09E7F8;
+    padding-top: 5px;
 }
 
 .content {
     FONT-WEIGHT: bold;
+    BACKGROUND-COLOR: white;
+    color: #343434;
+    padding: 35px;
+}
 
+input[type="text"] {
+    width: 200px;
+    height: 22px;
 }
 
 BUTTON { /*The same goes for the button*/
-	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif;
-	FONT-SIZE: 15px;
-	COLOR: #FFFFFF;
-	BACKGROUND-COLOR:dodgerblue;
+
+    /* #Belize Hole Sea Flat Button
+    ==================================================*/
+	position: relative;
+    vertical-align: top;
+    padding: 5px;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+    background: #5A798B;
+    border: 0;
+    cursor: pointer;
 }
 
 footer {
-    background-color:rgba(0, 0, 0, .1);
-    color:black;
-    clear:both;
-    text-align:center;
-    padding:5px;	 	 
+    background-color: #E9F1F2;
+    color: #343434;
+    clear: both;
+    text-align: center;
+    padding: 15px;	 	 
 }
