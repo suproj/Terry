@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
   <CommandSet xml:lang="en-us" Name="AcronymDemo">
-    <CommandPrefix> Terry, </CommandPrefix>
+    <AppName>Terry</AppName>
     <Example> Terry, show definition of MVP </Example>
 
     <Command Name="showDefinitionOfAcronym">
